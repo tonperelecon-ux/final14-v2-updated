@@ -1,0 +1,25 @@
+{
+  "name": "final14-v2-updated",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "16.2.6",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "@supabase/supabase-js": "2.98.0",
+    "sortablejs": "1.15.6"
+  },
+  "devDependencies": {
+    "typescript": "5.8.3",
+    "@types/node": "22.15.21",
+    "@types/react": "19.2.2",
+    "@types/react-dom": "19.2.2",
+    "eslint": "9.27.0",
+    "eslint-config-next": "16.2.6"
+  }
+}
